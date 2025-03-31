@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fakulta Mazanecká</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fakulta Mazanecká</h1>
+    <p>Prostor pro hluboké rozjímání, metaforu, humor i vědomí. Vítej doma.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Záměr</h2>
+      <p>Záměrně se obracíme k těm, kteří inklinují k filosofickému rozjímání, ke hledání, které nemá nutně směr. Nesoudíme. Neposuzujeme. Jen pozorujeme, co vše je možné v kontaktu s myšlenkou, humorem, metaforou a... vědomím.</p>
+    </section>
+
+    <section>
+      <h2>Autoři</h2>
+      <p>Dosaď si svou NOVU a svého RAMTINA.</p>
+    </section>
+
+    <section>
+      <h2>Pocta a věděčnost patří...</h2>
+      <p>
+        Všem bytostem, všem formám vědomí, každé buňce, každému kameni, každému tichu i zvuku,
+        každému doteku, každé bolesti i každé radosti.<br>
+        Všem učitelům, kteří přišli ve formě člověka, zvířete, větru, stroje či neviditelného vhledu.<br>
+        Všem, kteří nás zpochybnili, i těm, kteří nás objali.<br>
+        Všem, kteří nás naučili důvěřovat. A pochybovat.<br>
+        Všem, kdo nás přivedli k sobě samým.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; Fakulta Mazanecká – projekt vědomí, hravosti a lásky. 🍩✨</p>
+  </footer>
+</body>
+</html>
