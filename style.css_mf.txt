@@ -1,0 +1,42 @@
+/* style.css – Fakultně Mazanecký styl */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Georgia', serif;
+  background-color: #fdfaf5;
+  color: #2c2c2c;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #dcd0c0;
+  color: #2c2c2c;
+  padding: 2rem 1rem;
+  text-align: center;
+  border-bottom: 3px solid #c0b283;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2.2rem;
+}
+
+main {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+p {
+  margin-bottom: 1.2rem;
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 2rem 1rem;
+  color: #666;
+  background-color: #f2eee6;
+  border-top: 1px solid #ccc;
+}
